@@ -1,0 +1,3 @@
+Total Revenue = SUM(Sales_performance[Revenue (USD)])
+Average Revenue = AVERAGE(Sales_performance[Revenue (USD)])
+
